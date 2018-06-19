@@ -1,0 +1,1 @@
+fbi -noverbose -m 1280x720 -a -u -cachemem 0 -t 10 /home/pi/scottie/*.jpg

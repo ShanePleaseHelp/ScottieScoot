@@ -1,0 +1,5 @@
+vncsever :1
+cd scottie
+rm *.jpg
+sleep 10
+wget --level=1 -r --no-cache -np -nd -A jpg 

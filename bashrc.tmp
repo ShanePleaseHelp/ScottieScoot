@@ -1,0 +1,25 @@
+echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                  
+echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                  
+echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.XXXXXXXX                                                                                  
+echo XXXXXXXX XXXXXXXXXXXXXXXXXXXX...XXXXXXXX                                                                                  
+echo XXXXXXXX..XXXXXXXXXXXXXXXX:......XXXXXXX                                                                                  
+echo XXXXXXX...XXXXXXXXXXXXXXX..........XXXXX                                                                                  
+echo XXXXXX ..XXXXXXXXXXXXXXX...........XXXXX                                                                                  
+echo XXXXXX?...XXXXXXXXXXXX...............XXX                                                                                  
+echo XXXXXXX..............................XXX                                                                                  
+echo XXXXXX,......................XX.....XXXX                                                                                  
+echo XXXXX........................XX....XXXXX                                                                                  
+echo XXXXX.......................XXXXXXXXXXXX                                                                                  
+echo XXXX:.......................XXXXXXXXXXXX                                                                                  
+echo XXXX.......................XXXXXXXXXXXXX                                                                                  
+echo XXX~.......XXXX~...........XXXXXXXXXXXXX                                                                                  
+echo XXX.....:XXXXXXXXXXXXX.....XXXXXXXXXXXXX                                                                                  
+echo XXX:...XXXXXXXXXXXXXXXX.....XXXXXXXXXXXX                                                                                  
+echo XXXX...,XXXXXXXXXXXXXXX~....XXXXXXXXXXXX                                                                                  
+echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                  
+echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                  
+echo SCOTTIE SCOOT VER 3.2                                                                                                     
+echo WWW.SHANEPLEASEHELP.COM                                                                                                   
+sleep 10                                                                                                                       
+                                                                                                                               
+bash /home/pi/scottie/getart.sh
